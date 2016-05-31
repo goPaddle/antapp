@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="HelloWorld">click goPaddle ANTAPP1 Demo success value ....  Demo goPaddle</a>
+<a href="HelloWorld">click goPaddle ANTAPP1 Demo success....  Demo goPaddle</a>
 </body>
 </html>
