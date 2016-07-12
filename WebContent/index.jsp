@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="HelloWorld">click here goPaddle ANTAPP Demo gott success.... </a>
+<a href="HelloWorld">click here goPaddle ANT APPLICATION Demo gott success.... </a>
 </body>
 </html>
